@@ -26,7 +26,10 @@ Try to see if text sentiment mining in Stocktwits (a investment forum) can impro
     
 - EDA
 
-    blah blah blah
+    - Tokens Distribution
+    - Emoji Clouds
+    - Topic Modelling
+    - Time Series: Trend of Daily Average Sentiment
     
 - SentimentEngine
 

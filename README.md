@@ -1,6 +1,7 @@
 # PLPPM_Sentiment_Analysis_via_Stocktwits
 
 #### *A project by NUS ISS student Yun Cao, Gerong Zhang, Jiaqi Yao, Sikai Ni, Yunduo Zhang*
+GitHub Link: https://github.com/Gitrexx/PLPPM_Sentiment_Analysis_via_Stocktwits
 
 <br />
 
@@ -18,7 +19,7 @@ Try to see if text sentiment mining in Stocktwits (a investment forum) can impro
 
 - DataCollection
 
-    To scrape data from Stocktwits API, our scrapped dataset [here](https://www.linkedin.com/in/frankcaoyun/?originalSubdomain=sg)
+    To scrape data from Stocktwits API, our scrapped dataset [here](www.kaggle.com/frankcaoyun/stocktwits-2020-2022-raw)
     
 - Data Processing and Feature Engineering
 

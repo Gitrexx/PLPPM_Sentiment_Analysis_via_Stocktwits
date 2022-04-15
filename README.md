@@ -20,12 +20,11 @@ Try to see if text sentiment mining in Stocktwits (a investment forum) can impro
 
     To scrape data from Stocktwits API, our scrapped dataset [here](https://www.linkedin.com/in/frankcaoyun/?originalSubdomain=sg)
     
-- DataProcessing
+- Data Processing and Feature Engineering
 
-    blah blah blah
+    To clean, manapulate, transform, and aggregate the data into usable formats.
     
 - EDA
-
     - Tokens Distribution
     - Emoji Clouds
     - Topic Modelling
@@ -41,5 +40,4 @@ Try to see if text sentiment mining in Stocktwits (a investment forum) can impro
    
 - CorrelationAnalysis
 
-    blah blah blah
-    
+    - Build a classification model for stock movement classification

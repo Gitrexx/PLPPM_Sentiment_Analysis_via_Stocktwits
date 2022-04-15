@@ -19,7 +19,7 @@ Try to see if text sentiment mining in Stocktwits (a investment forum) can impro
 
 - DataCollection
 
-    To scrape data from Stocktwits API, our scrapped dataset [here](www.kaggle.com/frankcaoyun/stocktwits-2020-2022-raw)
+    To scrape data from Stocktwits API, our scrapped dataset [here](https://www.kaggle.com/datasets/frankcaoyun/stocktwits-2020-2022-raw)
     
 - Data Processing and Feature Engineering
 
